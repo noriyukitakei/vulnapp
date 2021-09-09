@@ -5,6 +5,7 @@
 1. Dockerで動きます。以下のコマンドを実行してください。
 ```
 $ git clone https://github.com/noriyukitakei/vulnapp.git
+$ cd vulnapp
 $ docker-compose up -d
 ```
 
